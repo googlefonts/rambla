@@ -1,0 +1,9 @@
+buildVariable: false
+removeOutlineOverlaps: false
+productionNames: false
+autohintTTF: false
+sources:
+  - Rambla-Bold.glyphs
+  - Rambla-BoldItalic.glyphs
+  - Rambla-Italic.glyphs
+  - Rambla-Regular.glyphs
